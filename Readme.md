@@ -1,4 +1,4 @@
-# Computer Graphics Algorithm (Theory)
+# Computer Graphics Algorithm
 
 This repository contains theoretical resources and algorithmic explanations related to **Computer Graphics**. It includes PDF documents and Jupyter Notebook implementations covering fundamental 2D drawing and transformation techniques used in rendering systems.
 
